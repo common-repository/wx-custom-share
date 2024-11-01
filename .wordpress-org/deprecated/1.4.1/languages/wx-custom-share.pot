@@ -1,0 +1,169 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WX Custom Share\n"
+"POT-Creation-Date: 2017-04-15 18:07+0800\n"
+"PO-Revision-Date: 2017-04-15 18:07+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wx-custom-share.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wx-custom-share.php:169
+#, php-format
+msgid ""
+"If you want to share link in Wechat directly, please <strong>enter AppID and "
+"AppSecret</strong>, and <strong>add <code>%s</code> to JSAPI Secure Domain</"
+"strong> on WeChat Admin Platform."
+msgstr ""
+
+#: wx-custom-share.php:174
+msgid ""
+"Otherwise you must share link to Wechat via QQ to custom share info, or "
+"share in QQ directly."
+msgstr ""
+
+#: wx-custom-share.php:185
+msgid "Settings"
+msgstr ""
+
+#: wx-custom-share.php:194 wx-custom-share.php:202
+msgid "Wechat Share Settings"
+msgstr ""
+
+#: wx-custom-share.php:194 wx-custom-share.php:258
+msgid "Wechat Share"
+msgstr ""
+
+#: wx-custom-share.php:207
+msgid "Wechat AppID"
+msgstr ""
+
+#: wx-custom-share.php:213
+msgid "Wechat AppSecret"
+msgstr ""
+
+#: wx-custom-share.php:219
+msgid "Post types to custom"
+msgstr ""
+
+#: wx-custom-share.php:229
+msgid "Other"
+msgstr ""
+
+#: wx-custom-share.php:233
+msgid "Clear plugin data when uninstall"
+msgstr ""
+
+#: wx-custom-share.php:237
+msgid "Debug mode"
+msgstr ""
+
+#: wx-custom-share.php:238
+msgid "Error will be print to console"
+msgstr ""
+
+#: wx-custom-share.php:246
+msgid "Save"
+msgstr ""
+
+#: wx-custom-share.php:282
+msgid "Title"
+msgstr ""
+
+#: wx-custom-share.php:286
+msgid "Default is {post title} - {site name}."
+msgstr ""
+
+#: wx-custom-share.php:291
+msgid "Description"
+msgstr ""
+
+#: wx-custom-share.php:295
+msgid "Default is the post permalink."
+msgstr ""
+
+#: wx-custom-share.php:300
+msgid "Link URL"
+msgstr ""
+
+#: wx-custom-share.php:304
+msgid "Default is the post permalink. The domain must match the page domain."
+msgstr ""
+
+#: wx-custom-share.php:309
+msgid "Icon"
+msgstr ""
+
+#: wx-custom-share.php:314
+msgid "Media"
+msgstr ""
+
+#: wx-custom-share.php:317
+msgid ""
+"Enter a URL, Upload or choose from media library. The image you selected "
+"should be square."
+msgstr ""
+
+#: wx-custom-share.php:319
+msgid "Default is the post featured image."
+msgstr ""
+
+#: wx-custom-share.php:324
+msgid "Preview"
+msgstr ""
+
+#: wx-custom-share.php:327
+msgid "Timeline"
+msgstr ""
+
+#: wx-custom-share.php:342 wx-custom-share.php:381
+msgid "cannot get the image"
+msgstr ""
+
+#: wx-custom-share.php:354
+msgid "1 min ago"
+msgstr ""
+
+#: wx-custom-share.php:364
+msgid "Chat"
+msgstr ""
+
+#: wx-custom-share.php:667
+msgid "Choose Icon"
+msgstr ""
+
+#: wx-custom-share.php:669
+msgid "Insert"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WX Custom Share"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.qwqoffice.com/article-20.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Customize infomation in share link, support Wechat and QQ."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QwqOffice"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.qwqoffice.com"
+msgstr ""

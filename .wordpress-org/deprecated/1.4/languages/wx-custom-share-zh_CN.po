@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WX Custom Share 1.4\n"
+"POT-Creation-Date: 2017-04-14 20:23+0800\n"
+"PO-Revision-Date: 2017-04-14 20:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: QwqOffice <admin@qwqoffice.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wx-custom-share.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wx-custom-share.php:122
+#, php-format
+msgid ""
+"If you want to share link in Wechat directly, please <strong>enter AppID and "
+"AppSecrect</strong>, and <strong>add <code>%s</code> to JSAPI Secure Domain</"
+"strong> on WeChat Admin Platform."
+msgstr ""
+"如果你想要在微信中直接分享，请<strong>输入AppID 和 AppSecrect</strong>，并在"
+"微信公众平台<strong>添加 <code>%s</code> 到JS接口安全域名中</strong>"
+
+#: wx-custom-share.php:127
+msgid ""
+"Otherwise you must share link to Wechat via QQ to custom share info, or "
+"share in QQ directly."
+msgstr "否则你只能通过QQ分享链接到微信，或者直接在QQ中分享"
+
+#: wx-custom-share.php:138
+msgid "Settings"
+msgstr "设置"
+
+#: wx-custom-share.php:147 wx-custom-share.php:155
+msgid "Wechat Share Settings"
+msgstr "微信分享设置"
+
+#: wx-custom-share.php:147 wx-custom-share.php:211
+msgid "Wechat Share"
+msgstr "微信分享"
+
+#: wx-custom-share.php:160
+msgid "Wechat AppID"
+msgstr "微信AppID"
+
+#: wx-custom-share.php:166
+msgid "Wechat AppSecrect"
+msgstr "微信AppSecrect"
+
+#: wx-custom-share.php:172
+msgid "Post types to custom"
+msgstr "启用的文章类型"
+
+#: wx-custom-share.php:182
+msgid "Other"
+msgstr "其它"
+
+#: wx-custom-share.php:186
+msgid "Clear plugin data when uninstall"
+msgstr "卸载时删除插件数据"
+
+#: wx-custom-share.php:190
+msgid "Debug mode"
+msgstr "调试模式"
+
+#: wx-custom-share.php:191
+msgid "Error will be print to console"
+msgstr "错误将会在控制台输出"
+
+#: wx-custom-share.php:199
+msgid "Save"
+msgstr "保存"
+
+#: wx-custom-share.php:238
+msgid "Title"
+msgstr "标题"
+
+#: wx-custom-share.php:242
+msgid "Default is {post title} - {site name}."
+msgstr "默认为 {文章标题} - {站点标题}"
+
+#: wx-custom-share.php:247
+msgid "Description"
+msgstr "描述"
+
+#: wx-custom-share.php:251
+msgid "Default is the post permalink."
+msgstr "默认为文章永久链接"
+
+#: wx-custom-share.php:256
+msgid "Link URL"
+msgstr "分享链接"
+
+#: wx-custom-share.php:260
+msgid "Default is the post permalink. The domain must match the page domain."
+msgstr "默认为文章永久链接。分享URL必须与页面URL同一域名"
+
+#: wx-custom-share.php:265
+msgid "Icon"
+msgstr "小图标"
+
+#: wx-custom-share.php:268
+msgid "Media"
+msgstr "媒体库"
+
+#: wx-custom-share.php:270
+msgid ""
+"Enter a URL, Upload or choose from media library. The image you selected "
+"should be square."
+msgstr "输入URL，上传或从媒体库选择。选择的图片最好为正方形"
+
+#: wx-custom-share.php:272
+msgid "Default is the post featured image."
+msgstr "默认为文章特色图片"
+
+#: wx-custom-share.php:277
+msgid "Preview"
+msgstr "预览"
+
+#: wx-custom-share.php:280
+msgid "Timeline"
+msgstr "朋友圈"
+
+#: wx-custom-share.php:290 wx-custom-share.php:320
+msgid "cannot get the image"
+msgstr "无法获取图像"
+
+#: wx-custom-share.php:297
+msgid "1 min ago"
+msgstr "1分钟前"
+
+#: wx-custom-share.php:307
+msgid "Chat"
+msgstr "聊天界面"
+
+#. Plugin Name of the plugin/theme
+msgid "WX Custom Share"
+msgstr "自定义微信分享"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.qwqoffice.com/article-20.html"
+msgstr "http://www.qwqoffice.com/article-20.html"
+
+#. Description of the plugin/theme
+msgid "Customize infomation in share link, support Wechat and QQ."
+msgstr "自定义分享链接中的信息，支持微信和QQ"
+
+#. Author of the plugin/theme
+msgid "QwqOffice"
+msgstr "QwqOffice"
+
+#. Author URI of the plugin/theme
+msgid "http://www.qwqoffice.com"
+msgstr "http://www.qwqoffice.com"
+
+#~ msgid ""
+#~ "If you want to share link in Wechat derictly, please <strong>enter AppID "
+#~ "and AppSecrect</strong>, and <strong>add <code>%s</code> to JSAPI Secure "
+#~ "Domain</strong> in WeChat Admin Platform."
+#~ msgstr ""
+#~ "如果你想要在微信中直接分享，请<strong>输入AppID 和 AppSecrect</strong>，并"
+#~ "在微信公众平台<strong>添加 <code>%s</code> 到JS接口安全域名中</strong>"
+
+#~ msgid "Custom the icon in Wechat share link."
+#~ msgstr "自定义微信分享链接中的小图标"
